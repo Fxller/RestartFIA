@@ -1,9 +1,13 @@
 # ReStart IA
 
 ## Team
-<a href="https://github.com/Fxller/RestartFIA/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Fxller/RestartFIA" />
-</a>
+| Team Members                                      |
+|---------------------------------------------------|
+| [Gianfranco Barba](https://github.com/gianfrancobarba) |
+| [Francesco Corcione](https://github.com/FCorcione02)   |
+| [Luigi Guida](https://github.com/Fxller)              |
+| [Tullio Mansi](https://github.com/Mall1o)             |
+| [Matteo Panza](https://github.com/matpan23)           |
 
 ## Descrizione
 ReStart IA è un'iniziativa rivoluzionaria che mira a facilitare il processo di reintegrazione degli ex detenuti nella società attraverso l'uso dell'intelligenza artificiale. 
