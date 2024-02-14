@@ -1,7 +1,6 @@
 # ReStart IA
 
 ## Team
-
 <a href="https://github.com/Fxller/RestartFIA/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Fxller/RestartFIA" />
 </a>
